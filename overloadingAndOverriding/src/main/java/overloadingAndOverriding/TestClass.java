@@ -1,4 +1,4 @@
-package main.java.overloadingAndOverriding;
+package overloadingAndOverriding;
 
 public class TestClass {
     public void sum(int a, int b) {

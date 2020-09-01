@@ -1,4 +1,4 @@
-package main.java.overloadingAndOverriding;
+package overloadingAndOverriding;
 
 public class ChildClass extends TestClass {
     

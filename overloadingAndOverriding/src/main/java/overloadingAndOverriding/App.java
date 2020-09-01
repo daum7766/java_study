@@ -1,8 +1,5 @@
 package overloadingAndOverriding;
 
-import main.java.overloadingAndOverriding.ChildClass;
-import main.java.overloadingAndOverriding.TestClass;
-
 /**
  * Hello world!
  */
