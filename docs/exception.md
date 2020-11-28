@@ -20,7 +20,7 @@
   - 즉, 애플리케이션이 정상적으로 동작하는데 심각한 문제가 있는 경우이다.
 - 우리가 주로 사용하게 되는 에러는 Exception과 RuntimeException이다.
 
-![](.\exceptionImage\exception1.png)
+![](.\exceptionImage\exception1.PNG)
 
 
 
@@ -253,9 +253,9 @@ public class Application() {
 
 ## 6. 자바에서 지원하는 예외타입
 
-![](./exceptionImage/exceptionClass.png)
+![](./exceptionImage/exceptionClass.PNG)
 
-![](./exceptionImage/runtimeExceptionClass.png)
+![](./exceptionImage/runtimeExceptionClass.PNG)
 
 - 더 많은 내용 오라클 공식문서 참조
 
